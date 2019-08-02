@@ -4,6 +4,6 @@ from . import main
 @main.errorhandler(404)
 def four_Ow_four(error):
     '''
-    Function to render the 404 error page
+    Function to render the 404 error page when http request fails
     '''
     return render_template('errorpage.html'),404
