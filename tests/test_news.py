@@ -10,7 +10,7 @@ class NewsTest(unittest.TestCase):
 
     def setUp(self):
         '''
-        Set up method that will run before every Test
+        Set up method that will run before every Test,to give instructions
         '''
         self.new_news = News('Python Must Be Crazy','https://image.tmdb.org/t/p/w500/khsjha27hbs','me','you','christine','beautiful')
 
