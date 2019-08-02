@@ -8,7 +8,7 @@ from ..request import get_news,get_sources,get_article,search_news
 def index():
 
      '''
-     View root page function that returns the index page and its data
+     View root page function that renders the index page and its data
      '''
      # Getting top headlines
      top_headlines = get_news('Top') 
