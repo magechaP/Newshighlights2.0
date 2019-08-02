@@ -3,7 +3,7 @@ News highlight is an application that gives a user an easy time locating the kin
 want to follow up on by the category or by the source
 
 #### Author
-*Bright Mukonesi*
+*Peter Magecha*
 #### Date made
 *17/5/2019*
 
@@ -15,9 +15,8 @@ want to follow up on by the category or by the source
 5. Flask
 
 ## Using the application
-* you can view the live demo at https://bnewshub.herokuapp.com/
 * You require a minimum python version 3.6 to run the application on your local machine
-* clone the repository and get to install flask using _git clone https://github.com/Brightmuk/News-highlight_
+* clone the repository and get to install flask using _git clone https://github.com/magechaP/Newshighlight2.0_
 * Run the application using _./start.sh_ command
 * Click on the link on the terminal as you press ctrl and use the application in the browser
 
